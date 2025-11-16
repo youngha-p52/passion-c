@@ -1,5 +1,0 @@
----
-triple:          'arm64-apple-darwin'
-binary-path:     '/Users/younghapark/repos/passion-c/chapter02/PrintfTwo'
-relocations:     []
-...
