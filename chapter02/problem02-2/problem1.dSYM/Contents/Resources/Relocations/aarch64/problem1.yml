@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/younghapark/repos/passion-c/chapter02/problem02-2/problem1'
+relocations:     []
+...
